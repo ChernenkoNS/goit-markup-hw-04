@@ -233,6 +233,8 @@ li>.current{
 
 .feature-title {
     display: flex;
+    align-items: baseline;
+    justify-content: center;
 }
 
 .feature-item {
